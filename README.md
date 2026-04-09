@@ -1,12 +1,98 @@
-### React + Vite
+# 🤖 AI Model Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules...
+## 📌 Project Overview
+AI Model Hub is a responsive web application where users can explore different AI models and tools in one place. The platform provides a clean and organized interface to browse AI models easily. This project focuses on modern frontend development using React and responsive design so that the website works smoothly on different devices.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+![Project Screenshot](./screenshot.png)
 
-## Expanding the ESLint configuration
+*(Add a screenshot of your project here)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Main Technologies Used
+- React
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Responsive Design
+- VS Code
+
+---
+
+## ✨ Main Features
+- Browse different AI models and tools
+- Clean and user-friendly interface
+- Fully responsive design
+- Fast and interactive UI
+- Organized component-based structure
+- Easy navigation between sections
+
+---
+
+## 📦 Dependencies
+Main dependencies used in this project:
+
+- react
+- react-dom
+- react-router-dom
+- vite
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+---
+
+## 💻 How to Run Locally
+
+Follow these steps to run the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/ai-model-hub.git
+```
+
+### 2. Go to the project folder
+
+```bash
+cd ai-model-hub
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the development server
+
+```bash
+npm run dev
+```
+
+Then open your browser and go to:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🔗 Live Link & Relevant Links
+
+Live Site: https://your-live-link.com  
+
+GitHub Repository: https://github.com/your-username/ai-model-hub
+
+---
+
+## 👩‍💻 Author
+
+Nafisa Nowshin Tisha  
+CSE Student | Frontend Developer | AI Enthusiast

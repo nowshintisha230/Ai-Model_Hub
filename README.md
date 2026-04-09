@@ -6,9 +6,11 @@ AI Model Hub is a responsive web application where users can explore different A
 ---
 
 ## 📸 Screenshot
-![Project Screenshot](./screenshot.png)
 
-*(Add a screenshot of your project here)*
+<img width="1877" height="912" alt="image" src="https://github.com/user-attachments/assets/7101f14c-fcf2-4d06-b138-c2f08436f26d" />
+<img width="1872" height="837" alt="image" src="https://github.com/user-attachments/assets/6689a191-6869-4fa9-8150-6d5902c11ad8" />
+
+
 
 ---
 
@@ -86,9 +88,9 @@ http://localhost:5173
 
 ## 🔗 Live Link & Relevant Links
 
-Live Site: https://your-live-link.com  
+Live Site:https://app.netlify.com/projects/ai-model-hub-platform/overview 
 
-GitHub Repository: https://github.com/your-username/ai-model-hub
+GitHub Repository: https://github.com/nowshintisha230/ai-model-hub
 
 ---
 
